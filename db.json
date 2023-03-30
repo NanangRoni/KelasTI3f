@@ -1,5 +1,5 @@
 {
-"mahasiswa" : 
+	"mahasiswa" :
 	[
 		{
 			"id" : 1,
@@ -17,44 +17,44 @@
 			"alamat" : "pasuruan"
 		}
 	],
-"organisasi": [
+	"organisasi": [
 		{"id" : 1, "nama" : "HMTI", "sekretariat" : "Gedung AS"},
 		{"id" : 2, "nama" : "RISPOL", "sekretariat" : "Gedung AS"},
 		{"id" : 3, "nama" : "PASTI", "sekretariat" : "Gedung AS"},
 		{"id" : 4, "nama" : "USMA", "sekretariat" : "Gedung AS"},
 		{"id" : 5, "nama" : "SENI", "sekretariat" : "Gedung AS"}
 	],
-	"kUmpulan foto kungfu panda" : 
+	"film" : 
 	[
 		{
 			"id" : 1,
 			"nama" : "Panda",
-			"nama film" : "kungfu Panda"
+			"nama_film" : "kungfu Panda"
 		},
 		{
 			"id" : 2,
 			"nama" : "harimau",
-			"nama film" : "kungfu panda"
+			"nama_film" : "kungfu panda"
 		},
 		{
 			"id" : 3,
 			"nama" : "kera",
-			"nama film" : "kungfu panda"
+			"nama_film" : "kungfu panda"
 		},
 				{
 			"id" : 4,
 			"nama" : "belalang",
-			"nama film" : "kungfu panda"
+			"nama_film" : "kungfu panda"
 		},
 		{
 			"id" : 5,
 			"nama" : "Ular",
-			"nama film" : "kungfu panda"
+			"nama_film" : "kungfu panda"
 		},
 		{
 			"id" : 6,
 			"nama" : "Burung",
-			"nama film" : "kungfu panda"
+			"nama_film" : "kungfu panda"
 		}
 	]	
 }
